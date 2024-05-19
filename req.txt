@@ -1,0 +1,7 @@
+fastapi[all]
+requests
+pandas
+numpy
+scikit-learn
+pillow
+pytesseract
